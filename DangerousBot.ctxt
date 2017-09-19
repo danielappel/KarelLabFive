@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ choosePile()
-numComments=1
+comment0.params=st\ av\ dir\ numBeepers
+comment0.target=DangerousBot(int,\ int,\ Direction,\ int)
+comment1.params=
+comment1.target=void\ choosePile()
+numComments=2

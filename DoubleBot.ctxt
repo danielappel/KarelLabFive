@@ -1,4 +1,7 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ doubleBeepers()
-numComments=1
+comment0.params=st\ av\ dir\ numBeepers
+comment0.target=DoubleBot(int,\ int,\ Direction,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Template\n
+comment1.params=
+comment1.target=void\ doubleBeepers()
+numComments=2

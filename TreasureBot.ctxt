@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ findTreasure()
-numComments=1
+comment0.params=st\ av\ dir\ numBeepers
+comment0.target=TreasureBot(int,\ int,\ Direction,\ int)
+comment1.params=
+comment1.target=void\ findTreasure()
+numComments=2
